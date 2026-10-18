@@ -9,7 +9,8 @@
 
 | 项目 | 作用 | 仓库 |
 |------|------|------|
-| **抖音收藏 → 知识库** | 抓取抖音收藏视频，转写语音，AI 整理为结构化 Markdown 笔记 | [abclq/douyin-fav-kb](https://github.com/abclq/douyin-fav-kb) |
+| **抖音收藏 → 知识库（教程）** | 如何搭建这套流程的方法论 + 脚本模板（不含真实收藏） | [abclq/douyin-kb-tutorial](https://github.com/abclq/douyin-kb-tutorial) |
+| **抖音收藏 → 知识库（数据）** | 实际整理好的知识库笔记（私密，勿外传） | [abclq/douyin-fav-kb](https://github.com/abclq/douyin-fav-kb) *(private)* |
 | **统一语音转写网关** | Cloudflare Worker，Groq→腾讯云→本地硅基流动三层 STT 兜底 | [abclq/groq-asr-proxy](https://github.com/abclq/groq-asr-proxy) |
 
 ## 🔗 关系
